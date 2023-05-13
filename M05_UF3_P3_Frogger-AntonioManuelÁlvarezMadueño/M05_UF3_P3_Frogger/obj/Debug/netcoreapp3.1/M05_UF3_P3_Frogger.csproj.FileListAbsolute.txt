@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.exe
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.dll
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.pdb
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.dll
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.pdb
+C:\Users\Usuario\OneDrive\Escritorio\M05_UF3_P3_Frogger-master\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M05_UF3_P3_Frogger/1.0.0": {
+        "runtime": {
+          "M05_UF3_P3_Frogger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M05_UF3_P3_Frogger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
